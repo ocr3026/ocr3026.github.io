@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FRC 3026 Orange Crush Robotics
+title: 3026 Orange Crush Robotics
 email: orc3026@delanoschools.org
 description: >- # this means to ignore newlines until "baseurl:"
   Robotics from Delano High School in Minnesota
-show_downloads: true ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# show_downloads: false ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
 domain: orangecrush3026.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: http://orangecrush3026.com # the base hostname & protocol for your site, e.g. http://example.com
