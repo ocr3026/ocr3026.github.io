@@ -4,4 +4,8 @@ layout: default
 
 # Welcome
 
-## [Social and Contact Information](./contact.html).
+## Meeting Information
+- [Agendas](./meetings/meetings_index.html)
+
+## [Social and Contact Information](./contact.html)
+
